@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VectorFile2VectorLayer", "VectorFile2VectorLayer.csproj", "{55AF58B2-B83A-4820-8018-787EB25B313F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55AF58B2-B83A-4820-8018-787EB25B313F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55AF58B2-B83A-4820-8018-787EB25B313F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55AF58B2-B83A-4820-8018-787EB25B313F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55AF58B2-B83A-4820-8018-787EB25B313F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297CF3F9-693A-4742-97BD-10F1B61A9240}
+	EndGlobalSection
+EndGlobal
